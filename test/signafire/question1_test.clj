@@ -1,6 +1,6 @@
-(ns signafire.core-test
+(ns signafire.question1-test
   (:require [clojure.test :refer :all]
-            [signafire.core :refer :all]))
+            [signafire.question1 :refer :all]))
 
 (deftest to-hours-test
   (testing "test valid maps to hours"

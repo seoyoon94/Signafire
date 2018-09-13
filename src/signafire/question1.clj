@@ -1,4 +1,4 @@
-(ns signafire.core
+(ns signafire.question1
   (:gen-class))
 
 (defn to-hours

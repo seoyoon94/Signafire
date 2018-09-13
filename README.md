@@ -1,14 +1,17 @@
-# signafire
+# Signafire Questions
 
-A Clojure library designed to ... well, that part is up to you.
+Included in the repository are the relevant files and links to answer each question. Instructions to find answers to each question is described below:
+## Question 1
 
-## Usage
+Source code can be found in ```src/signafire/question1.clj```. Leiningen is used to run the program and Question 1 can be started with ```lein run```.
 
-FIXME
+Tests are available in ```test/signafire/question1-test.clj``` and can be run with ```lein test```.
 
-## License
+## Question 2
 
-Copyright © 2018 FIXME
+Pseudocode with comments can be found in ```src/signafire/question2.clj```.
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+## Question 3
+
+The results of the query can be found here: 
+[Stack Overflow Query](https://data.stackexchange.com/stackoverflow/query/897842/question-3)
